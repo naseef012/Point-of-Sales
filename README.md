@@ -24,6 +24,8 @@ Steps to start this Project
       5                Helmet             600
       
    
+   
+   
    5. On the left there is a dropdown ComboBox which contains different discount strategies. Choosing any one will change the discounted        "Grand Total".
    
    6. The VAT is calculated upon the discounted TotalPrice.
