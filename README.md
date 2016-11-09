@@ -29,6 +29,11 @@ Steps to start this Project
    
    6. The VAT is calculated upon the discounted TotalPrice.
    
-   7. "config2.txt" --> This file contains the discount strategy which the store wants to follow for Best for customer and Best for Store        discount strategy
+   7. The "config.txt" and "config2.txt" files need to be kept in the project folder.
    
-   8. "config.txt"  --> This file contains the VAT calculation strategy. Here BDVAT is used.
+   8. "config2.txt" --> This file contains the discount strategy which the store wants to follow for Best for customer and Best for Store        discount strategy
+   
+   9. "config.txt"  --> This file contains the VAT calculation strategy. Here BDVAT is used.
+   
+   10. Calculate Discount button calculates the discounts. Unless pressed, the Grand Value will be the value without any kind of                discounts.
+   11. "New Sale" removes all the item and makes the GUI suitable for a new customer's sales.
