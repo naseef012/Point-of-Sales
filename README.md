@@ -1,15 +1,17 @@
 # Point-of-Sales
 
+CHECK THE RAW VERSION OF THIS "README.MD" FILE FOR BETTER READABILITY. 
+
 Steps to start this Project
   
-  1. As this is a Java project any IDE which supports Java will be fine for this. I used Eclipse and uploaded all the source class files.
+  1. As this is a Java project any IDE which supports Java will be fine for this. I used Eclipse and uploaded all the source class              files.
   
   2. The main() function is in "SaleJFrames.java" file. So running this will start off the application.
  
   3. Upon starting the software, there are TextFields where you can put the ID number of the product and the Quantity of the product a 
      customer wants.
   
-  4. The ID and their respective product names are given below with their pricing. The products are given as demo values and prices which      are not real values. These are only used for project demo.
+  4. The ID and their respective product names are given below with their pricing. The products are given as demo values and prices            which are not real values. These are only used for project demo.
       
       ID              PRODUCT             PRICE (tK)
       
@@ -22,10 +24,7 @@ Steps to start this Project
       4                Boot               800
       
       5                Helmet             600
-      
-   
-   
-   
+        
    5. On the left there is a dropdown ComboBox which contains different discount strategies. Choosing any one will change the discounted        "Grand Total".
    
    6. The VAT is calculated upon the discounted TotalPrice.
